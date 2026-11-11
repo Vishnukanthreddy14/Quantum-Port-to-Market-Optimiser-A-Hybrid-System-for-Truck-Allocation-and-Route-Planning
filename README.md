@@ -1,0 +1,2 @@
+# Quantum-Port-to-Market-Optimiser-A-Hybrid-System-for-Truck-Allocation-and-Route-Planning
+Hybrid (classical + quantum) approach:  1. A classical computer algorithm divides the delivery points into small, realistic bundles for each truck.  2. A quantum algorithm (QAOA) finds the best delivery order for those small bundles.  3. The quantum results are checked and compared side-by-side with an industrial classical solver (Google OR-Tools).
